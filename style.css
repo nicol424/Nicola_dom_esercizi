@@ -1,0 +1,19 @@
+.card{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 20%;
+
+}
+#cardWrapper{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+}
